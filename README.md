@@ -1,2 +1,2 @@
 # hashNcrypt
-Just some work on hashing and en/decrypt and colab
+Just some work on hashing and en/decrypt, for colab
